@@ -1,2 +1,2 @@
 # ImageJ
-Tratamentos de imagens com discussão feitos durante o minicurso de Processamento de Imagens pelo ImageJ
+Image treatments with discussion made during the Image Processing mini-course by ImageJ
